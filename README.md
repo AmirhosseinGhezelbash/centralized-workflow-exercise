@@ -1,4 +1,2 @@
-
-# Centralized workflow exercise
-
-Exercise description: https://coderefinery.github.io/git-collaborative/centralized/
+# This is Biffo's README
+I will create my oen manual for my repository!
